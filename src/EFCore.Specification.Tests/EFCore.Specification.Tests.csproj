@@ -8,7 +8,6 @@
     <NoWarn>$(NoWarn);CS1591</NoWarn>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <CodeAnalysisRuleSet>..\..\EFCore.ruleset</CodeAnalysisRuleSet>
-    <EnableApiCheck>false</EnableApiCheck>
     <IsPackable>true</IsPackable>
   </PropertyGroup>
 
